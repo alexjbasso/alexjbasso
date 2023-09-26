@@ -1,5 +1,5 @@
    <h1 align="center"> Hi, I'm Alex!</h1>
-   <h3 align="center">Full Stack Software Engineer | Video Editor | Creative Problem Sovler
+   <h3 align="center">Full Stack Software Engineer | Video Editor | Creative Problem Sovler</h3>
    <p align="center">Check out some of my work <a href="https://alexjbasso.github.io/">here.</a></p>
 
    <div align="center">
