@@ -1,6 +1,7 @@
    <h1 align="center"> Hi, I'm Alex!</h1>
    <h3 align="center">Full Stack Software Engineer | Video Editor | Creative Problem Sovler</h3>
    <p align="center">Check out some of my work <a href="https://alexjbasso.github.io/">here.</a></p>
+    <p align="center"><a href="https://www.last.fm/user/TheAlexBasso">What I've been listening to 🎧</a></p>
 
    <div align="center">
    <a href="https://www.linkedin.com/in/alexjbasso/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
